@@ -1,9 +1,9 @@
 # Project: So Long
 
 ## Overview
-    "So Long" is your gateway to the world of 2D game development.
-  This project introduces you to the captivating realm of textures, sprites, and basic gameplay mechanics.
-  Embark on a journey where creativity meets code, all within the confines of the MiniLibX library.
+"So Long" is your gateway to the world of 2D game development.
+This project introduces you to the captivating realm of textures, sprites, and basic gameplay mechanics.
+Embark on a journey where creativity meets code, all within the confines of the MiniLibX library.
 
 ## 🚀 Objectives
 - Embrace programming precision and meticulousness.
